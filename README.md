@@ -15,7 +15,7 @@ This React application utilizes Redux for state management in a shopping cart sc
  
 ## Netlify Deployed URL
 
-🔸*Check out My Redux Shopping Cart  Here*👉🏻 [![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)]( https://github.com/sakthiveloo7/Redux-shopping-cart.git/)
+🔸*Check out My Redux Shopping Cart  Here*👉🏻 [![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)]( https://wwwreduxshoppingcom.netlify.app//)
 ## Features
 
 ## Getting Started
