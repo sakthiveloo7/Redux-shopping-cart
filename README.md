@@ -50,4 +50,4 @@ This React application utilizes Redux for state management in a shopping cart sc
 ## Usage with Screenshots
 
 ### 1. Browse the home page to view available products.
- ![image](./src/Images/Screenshot%20(50).png)
+ ![image](./src/Images/Screenshot%20(51).png)
